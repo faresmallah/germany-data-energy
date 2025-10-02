@@ -39,5 +39,3 @@ ngn211-energy-germany/
 ## 🔧 Optional: Save Figures & Tables
 The scripts currently **display** figures. If you prefer saving, uncomment the `saveas(...)` lines (already included, commented out).
 
-## 📜 License
-MIT (or your course policy). Modify as needed.
